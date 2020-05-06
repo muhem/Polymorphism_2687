@@ -1,0 +1,7 @@
+C:\Users\HP OMEN\source\repos\2687\2687\bin\Debug\2687.exe.config
+C:\Users\HP OMEN\source\repos\2687\2687\bin\Debug\2687.exe
+C:\Users\HP OMEN\source\repos\2687\2687\bin\Debug\2687.pdb
+C:\Users\HP OMEN\source\repos\2687\2687\obj\Debug\2687.csprojAssemblyReference.cache
+C:\Users\HP OMEN\source\repos\2687\2687\obj\Debug\2687.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\source\repos\2687\2687\obj\Debug\2687.exe
+C:\Users\HP OMEN\source\repos\2687\2687\obj\Debug\2687.pdb
